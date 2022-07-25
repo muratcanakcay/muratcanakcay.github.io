@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Muratcan Akcay | Personal Website</title>
+	<link>https://www.muratcanakcay.com/</link>
+	<description>Recent content in Welcome to My Domain on Muratcan Akcay | Personal Website</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Thu, 14 Jul 2022 01:13:57 +0200</lastBuildDate>
+    
+        <atom:link href="https://www.muratcanakcay.com/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Portfolios</title>
+		<link>https://www.muratcanakcay.com/portfolio/</link>
+		<pubDate>Fri, 15 Jul 2022 03:47:10 +0200</pubDate>
+		
+		<guid>https://www.muratcanakcay.com/portfolio/</guid>
+		<description></description>
+	</item>
+	
+	<item>
+		<title>About Me</title>
+		<link>https://www.muratcanakcay.com/about-me/</link>
+		<pubDate>Fri, 15 Jul 2022 02:41:28 +0200</pubDate>
+		
+		<guid>https://www.muratcanakcay.com/about-me/</guid>
+		<description>&lt;p&gt;Hello! I&amp;rsquo;m Muratcan and welcome to my personal website. Since you&amp;rsquo;ve clicked the &amp;ldquo;About Me&amp;rdquo; section you must be curious about who I am. So let me introduce myself&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My first PC was an Intel 80286 with monochrome display and a &amp;ldquo;turbo&amp;rdquo; button that would boost the speed from 8Mhz to 16Mhz.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>

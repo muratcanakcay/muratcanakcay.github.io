@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Muratcan Akcay | Personal Website</title>
+	<link>https://www.muratcanakcay.com/portfolio/</link>
+	<description>Recent content in Portfolios on Muratcan Akcay | Personal Website</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Fri, 15 Jul 2022 03:47:10 +0200</lastBuildDate>
+    
+        <atom:link href="https://www.muratcanakcay.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Fruit Ninja</title>
+		<link>https://www.muratcanakcay.com/portfolio/fruit-ninja/</link>
+		<pubDate>Fri, 15 Jul 2022 03:47:10 +0200</pubDate>
+		
+		<guid>https://www.muratcanakcay.com/portfolio/fruit-ninja/</guid>
+		<description>&lt;p&gt;Fruit Ninja clone implementation using C++ WinAPI32.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Computer Graphics</title>
+		<link>https://www.muratcanakcay.com/portfolio/computer-graphics/</link>
+		<pubDate>Thu, 14 Jul 2022 00:17:03 +0200</pubDate>
+		
+		<guid>https://www.muratcanakcay.com/portfolio/computer-graphics/</guid>
+		<description></description>
+	</item>
+	
+	</channel>
+</rss>
